@@ -1,0 +1,7 @@
+Computational Physics Tut1
+Tankiso Moso
+Tankiso.Moso@gmail.com
+23 April 2018
+
+My Honours research project is HIRAX instrumentation and prototype characterisation, I am under the supervision of Dr Cynthia Chiang. I am interested in instrumentation and data analysis. In this course I would like to learn different applications of python programming in especially data analysis aspects.
+

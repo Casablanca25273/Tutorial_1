@@ -1,0 +1,7 @@
+Tutorial Problems
+
+1. Type history on the terminal
+2. a) head -25 filename
+b) sed -n “16,25p” filename
+3. man -aw manual name1 manual name2
+
