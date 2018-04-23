@@ -11,8 +11,6 @@ Created on Sun Apr 22 15:59:58 2018
 @author: Tankiso
 """
 import numpy
-from matplotlib import pyplot as plt
-from scipy.integrate import quad
 import pylab
 
 #Problem3
@@ -33,7 +31,7 @@ for n in m:
     
 #Problem4
 def simpsonsrule(n):  
-    dx=b/(n)*2
+    dx=b/(n-1)*2
     Xn=numpy.cos(steps(n))
     Xe=Xn[2::2]     #Taking all even points from an array, but skipping 1st and last points
     Xo=Xn[1:-1:2]   #Taking odd points from an array
